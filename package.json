@@ -28,7 +28,7 @@
     "rxjs": "^6.5.3",
     "twitter-widgets": "^2.0.0",
     "universal-cookie": "^3.0.4",
-    "validator": "^10.7.0"
+    "validator": "^13.7.0"
   },
   "lint-staged": {
     "{src,examples}/**/*.{js,jsx,json,css}": [
